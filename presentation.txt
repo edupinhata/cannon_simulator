@@ -1,0 +1,17 @@
+Simulador de canhão
+
+Um projeto em python que fiz enquanto estava estudando em St. Cloud State University. Esse é simples exercício para treinar o uso de canvas em python.
+Canvas é "uma área retangular destinada para desenhar figuras ou outros layouts complexos." [1].
+
+Utilizando o desenho de figuras juntamente com técnicas de rotação de imagens e fórmulas físicas de mecânica foi possível criar o presente projeto. 
+
+O vídeo abaixo mostra a versão em que o projeto se encontra agora. Ainda simplificado e com alguns bugs, mas os próximos posts irão explicar as técnicas computacionais que foram utilizadas para fazer esse simulador. 
+
+E mais alguns irão mostrar a evolução do mesmo para algo mais interessante. Desde já, deixo o link para o repositório do código nesse post.
+
+
+
+
+Referências
+
+[1] Python Tkinter Canvas. Url: http://www.tutorialspoint.com/python/tk_canvas.htm
